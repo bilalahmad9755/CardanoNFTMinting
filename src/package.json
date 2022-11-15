@@ -1,0 +1,21 @@
+{
+  "name": "nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@blockfrost/blockfrost-cardano-cli": "^1.0.0",
+    "@blockfrost/blockfrost-js": "^5.0.0",
+    "@emurgo/cardano-serialization-lib-nodejs": "^11.1.0",
+    "bech32": "^2.0.0",
+    "cardano-wallet-js": "^1.4.0",
+    "cardanocli-js": "^4.1.4",
+    "nami": "^0.7.2",
+    "nami-wallet-api": "^1.1.9"
+  }
+}
